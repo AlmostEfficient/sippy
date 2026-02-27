@@ -9,7 +9,7 @@ Search 747 iOS UI patterns from real production apps to find design inspiration 
 
 ## Database
 
-`/mnt/skills/user/spottedinprod/assets/sip.db`
+`assets/sip.db`
 
 ### Schema
 
