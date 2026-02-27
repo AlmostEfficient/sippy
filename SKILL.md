@@ -21,11 +21,11 @@ apps(slug, name, post_count)
 
 ### Tag Types
 
-- **pattern**: Bottom Sheet, Modal, Carousel, Context Menu, Tab Navigation, Shared Element, Toast, Tray, Slider, Morph
-- **gesture**: Scroll, Swipe, Tap, Long Press, Drag, Pinch, Gyroscope
-- **flow**: Navigation, Profile, Input, Loading, Alert, Onboarding, Settings, Search
-- **visual**: Cards, List, Grid, Typography, Animation
-- **design_language**: Dense UI, Monochrome, Typographic, Collage, Grayscale
+- **pattern**: Bottom Sheet, Bottom Tabs, Canvas, Card Stack, Carousel, Checkbox, Context Menu, Drawer, Dynamic Island, Expand/Collapse, FAB, Flip, Footer, Grid, HUD, Header, Increment, Keypad, List, Map Markers, Map Pins, Modal, Morph, Page Flip, Parallax, PiP, Picker, Pills, Play/Pause, Pulse, Radial UI, Rail, Segmented Control, Shared Element, Show/Hide, Shutter, Slider, Snap Scrolling, Split View, Switcher, Tab Navigation, Takeover, Toast, Toggle, Top Tabs, Top Tray, Tray, Waterfall, Zoom
+- **gesture**: Drag, Draw, Flick, Gyroscope, Hold, Long Press, Pan, Pinch, Pull, Scroll, Scrub, Shake, Slide, Spin, Swipe, Tap, Throw, Typing
+- **flow**: Alert, App Update, Camera, Check In, Confirmation, Countdown, Create, Customize, Data Viz, Delete, Detail View, Discovery, Easter Egg, Edit, Empty State, Error State, Feed, Filters, Follow, Gameplay, Gated Entry, IAP, Inbox, Input, Invite, Keyboard, Launch Screen, Live Session, Loading, Messaging, Multiplayer, Navigation, Onboarding, Paywall, Permissions, Profile, Promotion, QR Code, Ratings Capture, Reaction, Recap, Reel, Search, Settings, Share, Smart Recs, Splash Screen, Streaming, Summary, Theming, Tutorial, Unlock, Voice Input
+- **visual**: 3D, Animated Path, Animated Text, App Icons, Art, Avatars, Badges, Blur, Calendar, Cards, Chart, Color Picker, Confetti, Cover Art, Cutouts, Emoji, Gen AI, Glow, Gradient, Hand Drawings, Illustration, Liquid Glass, Logos, Map, Mascot, Masonry, Memoji, Menu Icons, Motion Graphics, Noise, Particle Emitter, Photos, Product Imagery, QR Code, Scale Effect, Shader, Sticker, Timer, Tooltip, Video, Video Intro, Waveform, Widgets, Wireframe
+- **design_language**: Collage, Colorful, Cyberpunk, Dense UI, Flat, Friendly, Geometric, Grayscale, Loud, Minimal, Monochrome, Pixel Art, Retro, Silly, Skeuomorphism, System, Technical, Typographic
 
 ## When to Use
 
