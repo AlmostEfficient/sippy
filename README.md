@@ -1,6 +1,6 @@
 # Spotted in Prod - Mobile UI Reference Skill
 
-Search 747+ real production app UI patterns for design inspiration from [SpottedInProd](https://www.spottedinprod.com/) 
+Search 889 real production app UI patterns for design inspiration from [SpottedInProd](https://www.spottedinprod.com/) 
 
 <img width="905" height="937" alt="image" src="https://github.com/user-attachments/assets/4b687f1c-57ec-4bd3-a477-397f183bbe22" />  
 
@@ -8,7 +8,7 @@ Search 747+ real production app UI patterns for design inspiration from [Spotted
 > [!NOTE]
 > The pattern database is a static snapshot. To get flows and patterns added to Spotted in Prod after this release, reinstall the skill to pull the latest version.
 
-Last db update: 27/2/26
+Last db update: 22/4/26
 
 ## Installation
 
